@@ -27,3 +27,6 @@ Consiste en corregir problemas del producto y re- liberar el producto como una n
 
 Etapa final EOL (End-of-Life) :
 El fin del ciclo del producto consiste en realizar todas las tareas necesarias para asegurar que los clientes y los empleados están consientes de que el producto ya no será vendido ni soportado. 
+
+Bibliografía:
+http://www.slideshare.net/itlac/etapas-de-desarrollo-software
