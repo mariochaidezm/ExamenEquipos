@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Ingeniería de software
 
 Según Sommerville (2005), para muchas personas el software son solo programas de computadora, sin embargo nos comenta que son todos aquellos documentos asociados a la configuración de datos que se necesitan para hacer que estos programas operen de manera adecuada. Estos productos de software se desarrollan para algún cliente en particular o para un mercado en general. Para el diseño y desarrollo de proyectos de software se aplican metodologías, modelos y técnicas que permiten resolver los problemas. En los años 50 no existían metodologías de desarrollo, el desarrollo estaba a cargo de los propios programadores. De ahí la importancia de contar con analistas y diseñadores que permitieran un análisis adecuado de las necesidades que se deberían de implementar. 
@@ -159,3 +160,31 @@ b)	Revisiones técnicas formales. Los miembros del equipo del DAS revisan los co
 c)	Post mortem. El equipo de DAS se vuelve introspectivo al vigilar su propio desempeño y proceso con el propósito de aprender acerca de su enfoque y después mejorarlo. 
 
 Es importante destacar que la filosofía del DAS es meritoria sin importar el modelo del proceso empleado. La dinámica de la organización propia los equipos, la colaboración interpersonal y el aprendizaje individual conducen a los grupos de proyectos de software con una mayor posibilidad de éxito
+=======
+Ingeniería de Requisitos
+Ingeniería de Requisitos, es el proceso de desarrollar una especificación de Software. Las especificaciones pretenden comunicar las necesidades del sistema del cliente a los desarrolladores del sistema. Trata de los principios, métodos, técnicas y herramientas que permiten descubrir, documentar y mantener los requisitos para sistemas basados en computadora, de forma sistemática y repetible.
+Importancia
+Los principales beneficios que se obtienen de la Ingeniería de Requisitos son:
+
+Permite gestionar las necesidades del proyecto en forma estructurada: Cada actividad de la Ingeniería de Requisitos consiste de una serie de pasos organizados y bien definidos.
+Mejora la capacidad de predecir cronogramas de proyectos, así como sus resultados: La Ingeniería de Requisitos proporciona un punto de partida para controles subsecuentes y actividades de mantenimiento, tales como estimación de costos, tiempo y recursos necesarios.
+Disminuye los costos y retrasos del proyecto: Muchos estudios han demostrado que reparar errores por un mal desarrollo no descubierto a tiempo, es sumamente caro; especialmente aquellas decisiones tomadas durante la Especificación de Requisitos.
+Mejora la calidad del software: La calidad en el software tiene que ver con cumplir un conjunto de requisitos (Funcionalidad, Facilidad de Uso, Confiabilidad Desempeño, etc.).
+Mejora la comunicación entre equipos: La especificación de requisitos representa una forma de consenso entre clientes y desarrolladores. Si este consenso no ocurre, el proyecto no será exitoso.
+Evita rechazos de usuarios finales: La Ingeniería de Requisitos obliga al cliente a considerar sus requisitos cuidadosamente y revisarlos dentro del marco del problema, por lo que se le involucra durante todo el desarrollo del proyecto.
+Actividades
+Existen cuatro actividades básicas (extracción, análisis, especificación y validación) que se tienen que llevar a cabo para completar el proceso. Estas actividades ayudan a reconocer la importancia que tiene, para el desarrollo de un proyecto de software, realizar una especificación y administración adecuada de los requisitos de los clientes o usuarios.
+
+Extracción: Esta fase representa el comienzo de cada ciclo. Extracción es el nombre comúnmente dado a las actividades involucradas en el descubrimiento de los requisitos del sistema.
+Análisis: Sobre la base de la extracción realizada previamente, comienza esta fase. Usualmente se hace un análisis luego de haber producido un bosquejo inicial del documento de requisitos; aquí se leen los requisitos, se conceptúan, se investigan, se intercambian ideas con el resto del equipo, se resaltan los problemas, se buscan alternativas y soluciones, y luego se van fijando reuniones con el cliente para discutir los requisitos.
+Especificación: En esta fase se documentan los requisitos acordados con el cliente, en un nivel apropiado de detalle. En la práctica, esta etapa se va realizando conjuntamente con el análisis, pero se podría decir que la Especificación es el “pasar en limpio” el análisis realizado previamente aplicando técnicas y/o estándares de documentación, como la notación UML.
+Validación: La validación es la etapa final de la IR. Su objetivo es verificar todos los requisitos que aparecen en el documento especificado para asegurarse que representan una descripción, por lo menos, aceptable del sistema que se debe implementar. Esto implica verificar que los requisitos sean consistentes y que estén completos.
+La validación representa un punto de control interno y externo; interno, porque se debe verificar internamente lo que se está haciendo, y externo, porque se debe validar con el cliente.
+Herramientas
+Existen diversas técnicas y herramientas que se utilizan para llevar a cabo cada una de las actividades del proceso de Ingeniería de Requisitos, una de las razones por las cuales surgen los errores a la hora del levantamiento es la existencia de una gama de herramientas. No existe una especie de guía para el uso de los desarrolladores, estos utilizan incluso en la captura más de una técnica en cada de las actividades que contiene el proceso.
+Herramientas más Usadas
+
+Entrevistas y cuestionarios: Las entrevistas y cuestionarios se emplean para reunir información proveniente de personas o grupos, información que se obtiene conversando con el encuestado. Las preguntas suelen distinguirse en dos categorías: abiertas y cerradas. Las preguntas abiertas permiten que los encuestados respondan con su propia terminología, mientras que las preguntas cerradas predeterminan todas las posibles respuestas y el interrogado elige entre las opciones presentadas.
+Grabaciones de video y de audio: Básicamente existen dos formas de utilizar las grabaciones: como registro y apoyo de las entrevistas, y para analizar algún proceso en particular. En cuanto a su función de apoyo, es importante porque permite centrar la atención en la entrevista en sí, en vez de distraerse tomando notas de todo lo que se dice. Cuando se trata de analizar algún proceso en particular, su ayuda es inestimable (sobre todo las filmaciones de video) porque permite ver y analizar en detalle ese proceso la cantidad de veces que sea necesario.
+Brainstorming (tormenta de ideas): Este es un modelo que se usa para generar ideas. La intención en su aplicación es la de generar la máxima cantidad posible de requisitos para el sistema. No hay que detenerse en pensar si la idea es o no del todo utilizable.
+>>>>>>> origin/isidro
