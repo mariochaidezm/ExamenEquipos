@@ -1,5 +1,29 @@
-Que es la ingenieria de softwaer?
+Que es la ingenieria de software?
 
 Ingeniería de software es la aplicación de un enfoque sistemático, disciplinado y cuantificable al desarrollo, 
 operación y mantenimiento de software, y el estudio de estos enfoques, es decir, la aplicación de la ingeniería 
 al software. Integra matemáticas, ciencias de la computación y prácticas cuyos orígenes se encuentran en la ingeniería.
+
+Etapas del desarrollo de software
+
+Etapa de Análisis Análisis:
+Es el proceso de investigar un problema que se quiere resolver. Definir claramente el Problema que se desea resolver o el sistema que se desea crear. Identificar los componentes principales que integrarán el producto.
+
+Etapa de Diseño Diseño:
+Es el proceso de utilizar la información recolectada en la etapa de análisis al diseño del producto. La principal tarea de la etapa de diseño es desarrollar un modelo o las especificaciones para el producto o Componentes del Sistema.
+
+Etapa de Desarrollo Desarrollo:
+Consiste en utilizar los modelos creados durante la etapa de diseño para crear los componentes del sistema.
+
+Etapa de Pruebas o Verificación Prueba:
+Consiste en asegurar que los componentes individuales que integran al sistema o producto, cumplen con los requerimientos de la especificación creada durante la etapa de diseño.
+
+Etapa de Implementación o Entrega Implantación:
+Consiste en poner a disposición del cliente el producto.
+
+
+Etapa de Mantenimiento Mantenimiento:
+Consiste en corregir problemas del producto y re- liberar el producto como una nueva versión o revisión (producto mejorado).
+
+Etapa final EOL (End-of-Life) :
+El fin del ciclo del producto consiste en realizar todas las tareas necesarias para asegurar que los clientes y los empleados están consientes de que el producto ya no será vendido ni soportado. 
