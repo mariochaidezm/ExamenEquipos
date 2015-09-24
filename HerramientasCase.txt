@@ -1,15 +1,3 @@
-Que es la ingenieria de softwaer?
-
-Ingeniería de software es la aplicación de un enfoque sistemático, disciplinado y cuantificable al desarrollo, 
-operación y mantenimiento de software, y el estudio de estos enfoques, es decir, la aplicación de la ingeniería 
-al software. Integra matemáticas, ciencias de la computación y prácticas cuyos orígenes se encuentran en la ingeniería.
-
-
-
-
-
-Herramientas Case
-
 Las herramientas CASE (Computer Aided Software Engineering, Ingeniería de Software Asistida por Computadora) son diversas aplicaciones informáticas o programas informáticos destinadas a aumentar la productividad en el desarrollo de software reduciendo el costo de las mismas en términos de tiempo y de dinero.
 
 Estas herramientas pueden ayudar en todos los aspectos del ciclo de vida de desarrollo del software en tareas como el proceso de realizar un diseño del proyecto, cálculo de costos, implementación de parte del código automáticamente con el diseño dado, compilación automática, documentación o detección de errores entre otras. Ya en los años 70 un proyecto llamado ISDOS diseñó un lenguaje y por lo tanto un producto que analizaba la relación existente entre los requisitos de un problema y las necesidades que estos generaban, el lenguaje en cuestión se denominaba PSL (Problem Statement Language) y la aplicación que ayudaba a buscar las necesidades de los diseñadores PSA (Problem Statement Analyzer).
@@ -28,5 +16,3 @@ Automatizar el desarrollo del software, la documentación, la generación de códig
 Ayuda a la reutilización del software, portabilidad y estandarización de la documentación.
 Gestión global en todas las fases de desarrollo de software con una misma herramienta.
 Facilitar el uso de las distintas metodologías propias de la ingeniería del software.
-
-Ejemplos:
